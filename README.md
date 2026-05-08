@@ -1,21 +1,139 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>- Full Stack MERN Applications  <br>- AI/ML-based projects for real-world problems  <br>- Personal projects to strengthen backend & system design  <br><br>👯 I’m looking to collaborate on  <br>- Open Source MERN Stack projects  <br>- AI / Machine Learning applications  <br>- Innovative web apps that solve real-life problems  <br><br>🤝 I’m looking for help with  <br>- Advanced Backend (Scalability, Security, System Design)  <br>- Machine Learning deployment (production level)  <br>- Optimizing DSA for product-based companies  <br><br>🌱 I’m currently learning  <br>- Data Structures & Algorithms (for placements)  <br>- Advanced Node.js & Express  <br>- MongoDB & SQL (both)  <br>- Machine Learning fundamentals & projects  <br><br>💬 Ask me about  <br>- MERN Stack Development  <br>- REST APIs & Backend  <br>- JavaScript & Python  <br>- Fitness, Discipline & Productivity  <br><br>⚡ Fun fact  <br>- I balance coding, fitness, and dance 💃  <br>- I believe consistency > motivation  
+<h1 align="center">Hi 👋, I'm Hithesh Amin</h1>
+<h3 align="center">Full Stack MERN Developer • AI/ML Enthusiast • Fitness & Dance Lover</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hitheshamin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitheshamin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hitheshamin423@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hitheshamin24&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hitheshamin24&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hitheshamin24&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hitheshamin24&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;AI%2FML+Project+Builder;Backend+%26+System+Design+Learner;Fitness+%7C+Discipline+%7C+Consistency" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hitheshamin24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+🔭 Currently working on:
+- Full Stack MERN Applications
+- AI/ML-based real-world projects
+- Backend architecture & scalable systems
+
+🌱 Currently learning:
+- Advanced Node.js & Express
+- DSA for placements
+- Machine Learning & Deployment
+- MongoDB + SQL optimization
+
+👯 Looking to collaborate on:
+- Open Source MERN projects
+- AI/ML Applications
+- Innovative Web Platforms
+
+💬 Ask me about:
+- MERN Stack Development
+- REST APIs & Backend
+- JavaScript & Python
+- Fitness & Productivity
+
+⚡ Fun Fact:
+- I balance coding, fitness, and dance 💃
+- I believe **Consistency > Motivation**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://instagram.com/hitheshamin" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+<a href="https://linkedin.com/in/hitheshamin" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+<a href="mailto:hitheshamin423@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+</p>
+
+## 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
+</p>
+
+## ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+## 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+## ☁️ Deployment & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,render,figma,canva" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎟️ Online Ticket Booking System
+> Built using HTML, CSS, JavaScript & PHP
+
+### 💃 DNCR — Platform for Dancers
+> Community platform for dancers using full-stack technologies
+
+### 🧠 AI Fitness Recommendation System
+> Personalized workout recommendation system using ML
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hitheshamin24&theme=tokyonight&hide_border=true&show_icons=true" height="180em" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitheshamin24&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitheshamin24&theme=tokyonight&hide_border=true&layout=compact" height="180em"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hitheshamin24&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Hithesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hitheshamin24&theme=tokyo-night)](https://github.com/hitheshamin24)
+
+---
+
+## 🔥 Quote I Follow
+
+> "Discipline will take you places motivation can't."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hitheshamin24&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
