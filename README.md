@@ -1,124 +1,114 @@
-<h1 align="center">Hi 👋, I'm Hithesh Amin</h1>
-<h3 align="center">Full Stack MERN Developer • AI/ML Enthusiast • Fitness & Dance Lover</h3>
+# 🚀 Modern Premium GitHub README
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;AI%2FML+Project+Builder;Backend+%26+System+Design+Learner;Fitness+%7C+Discipline+%7C+Consistency" />
-</p>
+```md
+<div align="center">
 
----
+# Hithesh Amin
 
-## 💫 About Me
+### Front-End Developer & Designer
 
-🔭 Currently working on:
-- Full Stack MERN Applications
-- AI/ML-based real-world projects
-- Backend architecture & scalable systems
+Building impactful MERN applications with modern UI/UX and scalable backend systems.
+Focused on AI/ML projects, backend engineering, and real-world problem solving.
 
-🌱 Currently learning:
-- Advanced Node.js & Express
-- DSA for placements
-- Machine Learning & Deployment
-- MongoDB + SQL optimization
+<br>
 
-👯 Looking to collaborate on:
-- Open Source MERN projects
-- AI/ML Applications
-- Innovative Web Platforms
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hitheshamin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hitheshamin)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hitheshamin423@gmail.com)
 
-💬 Ask me about:
-- MERN Stack Development
-- REST APIs & Backend
-- JavaScript & Python
-- Fitness & Productivity
-
-⚡ Fun Fact:
-- I balance coding, fitness, and dance 💃
-- I believe **Consistency > Motivation**
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# ⚡ Services
 
-<p align="left">
-<a href="https://instagram.com/hitheshamin" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45" />
-</a>
-<a href="https://linkedin.com/in/hitheshamin" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-<a href="mailto:hitheshamin423@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-</p>
+| UI/UX Websites | Backend Development | AI/ML Projects | Performance Optimization |
+|---|---|---|---|
+| Responsive modern interfaces | Secure scalable APIs | Real-world ML applications | Optimized applications |
+| React • Tailwind • Vite | Node.js • Express • JWT | TensorFlow • OpenCV | Clean architecture |
 
 ---
 
-# 💻 Tech Stack
+# 👨‍💻 About Me
 
-## 🚀 Languages
+I'm a passionate MERN Stack Developer and AI/ML enthusiast focused on building scalable web applications and solving real-world problems through technology.
+
+- 🔭 Working on Full Stack MERN Applications
+- 🤖 Building AI/ML based projects
+- 📚 Learning System Design & Advanced Backend
+- 💪 Balancing coding, fitness & dance
+- 🎯 Goal: High-package software engineering role
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind" />
 </p>
 
-## 🌐 Frontend
+## Backend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
-## ⚙️ Backend
+## Databases
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,mariadb" />
 </p>
 
-## 🗄️ Databases
+## Languages
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
-## 🤖 AI / ML
+## AI / ML
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 </p>
 
-## ☁️ Deployment & Tools
+## Tools & Deployment
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,render,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,render,netlify,figma,canva" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🎟️ Online Ticket Booking System
-> Built using HTML, CSS, JavaScript & PHP
+## 🎟 Online Ticket Booking System
+> Full-stack ticket booking system using HTML, CSS, JavaScript & PHP.
 
-### 💃 DNCR — Platform for Dancers
-> Community platform for dancers using full-stack technologies
+## 💃 DNCR — Platform for Dancers
+> Community-driven platform built for dancers and dance enthusiasts.
 
-### 🧠 AI Fitness Recommendation System
-> Personalized workout recommendation system using ML
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitheshamin24&theme=tokyonight&hide_border=true&show_icons=true" height="180em" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitheshamin24&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitheshamin24&theme=tokyonight&hide_border=true&layout=compact" height="180em"/>
-</p>
+## 🧠 AI Fitness Recommendation System
+> Personalized workout recommendation system using Machine Learning.
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hitheshamin24&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hitheshamin24&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hitheshamin24&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitheshamin24&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hitheshamin24&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
 
 ---
 
@@ -128,12 +118,43 @@
 
 ---
 
-## 🔥 Quote I Follow
+# 🌐 Connect With Me
 
-> "Discipline will take you places motivation can't."
+<p align="center">
+<a href="https://linkedin.com/in/hitheshamin">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/hitheshamin">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:hitheshamin423@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hitheshamin24&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<div align="center">
+
+### 💡 "Consistency beats motivation every single time."
+
+<img src="https://komarev.com/ghpvc/?username=hitheshamin24&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
+```
+
+---
+
+## 🔥 Additional Suggestions
+
+To make it look even closer to the reference design:
+
+* Use a dark GitHub theme
+* Keep sections minimal
+* Avoid excessive badges
+* Use only premium-looking icons
+* Add a portfolio website later
+* Use matching colors throughout
+* Keep spacing clean and balanced
+
+You can directly paste this into your `README.md` file.
