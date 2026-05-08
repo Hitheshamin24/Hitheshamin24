@@ -92,12 +92,15 @@ const hithesh = {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=hitheshamin24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=hitheshamin24&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff"/>
+<img height="160em" src="https://streak-stats.demolab.com?user=hitheshamin24&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff"/>
 
 <br/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitheshamin24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hitheshamin24&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hitheshamin24&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" width="100%"/>
 
 </div>
 
