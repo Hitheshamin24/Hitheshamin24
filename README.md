@@ -1,90 +1,122 @@
-```md
-<h1 align="center">Hi 👋, I'm Hithesh Amin</h1>
+<div align="center">
 
-<p align="center">
-  Full Stack MERN Developer • AI/ML Enthusiast • Fitness & Dance Lover
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;AI%2FML+Project+Builder;Backend+%26+System+Design+Learner;Consistency+%3E+Motivation" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=hey%2C+i'm+hithesh+%F0%9F%91%8B;mern+dev+%7C+ai%2Fml+builder;i+build+things+that+hit+different" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://instagram.com/hitheshamin">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/hitheshamin">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="mailto:hitheshamin423@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-</p>
+<br/>
 
----
+> *full stack dev • ai/ml tinkerer • gym rat • dancer — living at the intersection of code & consistency*
 
-## About Me
+<br/>
 
-- 🔭 Building Full Stack MERN & AI/ML Projects
-- 🌱 Learning System Design, DSA & ML Deployment
-- 👯 Open to Open Source & AI collaborations
-- 💬 Ask me about MERN, REST APIs, JavaScript & Python
-- ⚡ Balancing Coding, Fitness & Dance
+[![Instagram](https://img.shields.io/badge/@hitheshamin-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hitheshamin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hitheshamin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hitheshamin423@gmail.com)
 
-> **Consistency > Motivation**
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Tech Stack
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,vite,tailwind,nodejs,express,flask,mongodb,mysql,tensorflow,opencv,git,github,vercel,netlify,render,figma,canva" />
-</p>
+## `> whoami`
 
----
-
-## Featured Projects
-
-### 🎟️ Online Ticket Booking System
-HTML • CSS • JavaScript • PHP
-
-### 💃 DNCR — Platform for Dancers
-Community platform built using full-stack technologies
-
-### 🧠 AI Fitness Recommendation System
-ML-powered personalized workout recommendation system
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitheshamin24&theme=tokyonight&hide_border=true&show_icons=true" height="165"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitheshamin24&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitheshamin24&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitheshamin24&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hitheshamin24&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hitheshamin24&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+```ts
+const hithesh = {
+  role:        "MERN Stack Developer + AI/ML Builder",
+  currently:   ["grinding DSA", "learning System Design", "shipping projects"],
+  obsessions:  ["clean code", "the gym", "dance", "deep focus"],
+  motto:       "consistency > motivation. no cap.",
+  openTo:      ["collabs", "internships", "cool ideas"],
+};
 ```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## `> tech.stack`
+
+<div align="center">
+
+**languages & frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**tools & extras**
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## `> projects.log`
+
+<div align="center">
+
+| project | what it does | vibe |
+|---|---|---|
+| 🎟️ **Online Ticket Booking System** | end-to-end booking platform | full stack MERN |
+| 💃 **DNCR** | platform built for the dance community | passion project |
+| 🧠 **AI Fitness Recommender** | personalized fitness with AI | ml meets gains |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## `> github.stats`
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=hitheshamin24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=hitheshamin24&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff"/>
+
+<br/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitheshamin24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+*if you made it here, we're probably gonna vibe* 🤝
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hitheshamin24&label=profile+views&color=58a6ff&style=flat-square)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+</div>
