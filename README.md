@@ -74,11 +74,25 @@ const hithesh = {
 
 <div align="center">
 
-| project | what it does | vibe |
-|---|---|---|
-| 🎟️ **Online Ticket Booking System** | end-to-end booking platform | full stack MERN |
-| 💃 **DNCR** | platform built for the dance community | passion project |
-| 🧠 **AI Fitness Recommender** | personalized fitness with AI | ml meets gains |
+| project                    | what it does                                                                                    | stack / vibe                             |
+| -------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| **Portfolio Website**      | modern developer portfolio with responsive UI, animations, and project showcase                 | React • frontend dev • personal branding |
+|    **DNCR**                | online dance learning platform with tutorials and community-focused experience                  | HTML/CSS/JS • passion project            |
+| **Paisafy**                | smart finance advisory platform that recommends investment plans based on user goals and income | MERN + Flask • fintech vibe              |
+| **Niyam**                  | habit tracking platform focused on consistency, streaks, and self-discipline                    | MERN stack • productivity app            |
+| **React Todo List**        | clean and responsive task management app for organizing daily activities                        | React • beginner-friendly utility        |
+| **GitHub Tutorial**        | beginner-friendly repository to learn Git, GitHub workflow, branching, and collaboration        | learning resource • open source          |
+
+</div>
+
+<br/>
+
+> *building projects that mix creativity, discipline, and real-world utility.*
+
+<br/>
+
+> *building projects that mix creativity, discipline, and real-world utility.*
+
 
 </div>
 
