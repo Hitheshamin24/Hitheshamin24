@@ -85,9 +85,6 @@ const hithesh = {
 
 </div>
 
-<br/>
-
-> *building projects that mix creativity, discipline, and real-world utility.*
 
 <br/>
 
