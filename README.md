@@ -100,8 +100,8 @@ const hithesh = {
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hitheshamin24&theme=tokyonight" width="100%"/>
-
+[<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hitheshamin24&theme=tokyonight" width="100%"/>
+](https://github-readme-stats.vercel.app/api?username=hitheshamin24&show_icons=true&theme=tokyonight)
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitheshamin24&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c084fc&line=8338ec&point=ff006e" width="100%"/>
