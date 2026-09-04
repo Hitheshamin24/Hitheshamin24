@@ -24,7 +24,7 @@
 
 ```ts
 const hithesh = {
-  role: "MERN Stack Developer",
+  role: "Full Stack Developer",
   studying: "MCA @ MITE",
   skills: ["JavaScript", "Python", "React", "Node.js", "MongoDB"],
   interests: ["Full Stack Development", "AI/ML", "System Design", "Fitness", "Dance"],
