@@ -102,7 +102,7 @@ const hithesh = {
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hitheshamin24&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c084fc&line=8338ec&point=ff006e" width="100%"/>
+
 
 </div>
 
