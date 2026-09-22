@@ -91,7 +91,6 @@ const hithesh = {
 
 <br/>
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -99,10 +98,6 @@ const hithesh = {
 <img height="165em" src="https://github-readme-streak-stats-eight.vercel.app?user=hitheshamin24&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=c084fc&fire=ff006e&currStreakLabel=c084fc&sideLabels=8338ec&dates=ffffff"/>
 
 <br/><br/>
-
-
-
-
 
 </div>
 
