@@ -30,7 +30,7 @@ const hithesh = {
   interests: ["Full Stack Development", "AI/ML", "System Design", "Fitness", "Dance"],
   currentlyLearning: ["Advanced MERN", "DSA", "System Design"],
   motto: "Consistency > Motivation",
-  openTo: ["Internships", "Collaborations", "Open Source"],
+  openTo: [ "Collaborations", "Open Source"],
 };
 ```
 
