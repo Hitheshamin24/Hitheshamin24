@@ -17,11 +17,9 @@
 
 ```ts
 const hithesh = {
-  role: "Full Stack Developer",
   education: "MCA @ MITE · 2026",
   focus: ["MERN", "AI API Integration"],
   outsideCode: ["Fitness", "Dance"],
-  motto: "Consistency > Motivation",
   openTo: ["SDE Internships", "Fresher Roles", "Collaborations", "Open Source"],
 };
 ```
