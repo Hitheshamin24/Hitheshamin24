@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="assets/header.svg" width="100%" alt="Hithesh - Full Stack Developer"/>
 
@@ -18,9 +18,11 @@
 ```ts
 const hithesh = {
   education: "MCA @ MITE · 2026",
-  focus: ["MERN", "AI API Integration"],
-  outsideCode: ["Fitness", "Dance"],
-  openTo: ["SDE Internships", "Fresher Roles", "Collaborations", "Open Source"],
+  role: "Associate Software Developer",
+  focus: ["Full-Stack Development", "MERN Stack"],
+  technologies: ["JavaScript", "React", "Node.js", "MongoDB", "SQL"],
+  interests: ["Backend Engineering", "AI Integration", "System Design"],
+  openTo: ["Collaborations", "Open Source", "Interesting Projects"],
 };
 ```
 
@@ -60,9 +62,9 @@ const hithesh = {
 
 | | Project | What it does | Stack |
 |:-:|:--|:--|:--|
-| 💃 | **[DNCR / RhythmFlow](https://rhflow.vercel.app)** | Online dance studio management — classes, students, and fees in one place | `MongoDB` `Express` `React` `Node` |
-| 💰 | **[Paisafy](https://paisafy.vercel.app)** | Smart finance advisor that recommends investment plans based on your goals | `React` `Node` `Flask` `ML` |
-| 📋 | **[Niyam](https://niyamtrack.vercel.app/)** | Habit tracker built around consistency and streaks | `MongoDB` `Express` `React` `Node` |
+| 💃 | **[DNCR / RhythmFlow](https://rhflow.vercel.app)** | Dance studio management platform for managing students, batches, attendance, and fees | `MongoDB` `Express` `React` `Node.js` |
+| 💰 | **[Paisafy](https://paisafy.vercel.app)** | Smart finance advisor that recommends investment plans based on financial goals | `React` `Node.js` `Flask` `ML` |
+| 📋 | **[Niyam](https://niyamtrack.vercel.app/)** | Habit tracker designed to help users build consistency and track their progress | `MongoDB` `Express` `React` `Node.js` |
 
 </div>
 
@@ -86,7 +88,7 @@ const hithesh = {
 
 <div align="center">
 
-Got an idea, an internship opening, or want to build something together?
+Interested in collaborating on software projects, exploring new technologies, or building something useful?
 
 **[📩 Email me](mailto:hitheshamin423@gmail.com)** · **[🌐 View portfolio](https://hitheshx.vercel.app)** · **[💼 LinkedIn](https://linkedin.com/in/hitheshamin)**
 
