@@ -60,9 +60,9 @@ const hithesh = {
 
 | | Project | What it does | Stack |
 |:-:|:--|:--|:--|
-| 💃 | **[DNCR / RhythmFlow](https://dncr.vercel.app)** | Online dance studio management — classes, students, and fees in one place | `MongoDB` `Express` `React` `Node` |
-| 💰 | **Paisafy** | Smart finance advisor that recommends investment plans based on your goals | `React` `Node` `Flask` `ML` |
-| 📋 | **Niyam** | Habit tracker built around consistency and streaks | `MongoDB` `Express` `React` `Node` |
+| 💃 | **[DNCR / RhythmFlow](https://rhflow.vercel.app)** | Online dance studio management — classes, students, and fees in one place | `MongoDB` `Express` `React` `Node` |
+| 💰 | **[Paisafy](https://paisafy.vercel.app)** | Smart finance advisor that recommends investment plans based on your goals | `React` `Node` `Flask` `ML` |
+| 📋 | **[Niyam](https://niyamtrack.vercel.app/)** | Habit tracker built around consistency and streaks | `MongoDB` `Express` `React` `Node` |
 
 </div>
 
