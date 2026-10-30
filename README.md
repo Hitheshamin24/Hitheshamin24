@@ -76,9 +76,6 @@ const hithesh = {
 
 <img height="165em" src="https://github-readme-streak-stats-eight.vercel.app?user=hitheshamin24&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=c084fc&fire=ff006e&currStreakLabel=c084fc&sideLabels=8338ec&dates=ffffff"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=hitheshamin24&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 
 </div>
 
